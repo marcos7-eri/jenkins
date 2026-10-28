@@ -1,0 +1,10 @@
+{
+  "name": "jenkins-demo-web",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Aplicación mínima para demostrar CI/CD con Jenkins",
+  "scripts": {
+    "start": "node server.js",
+    "test": "node --test"
+  }
+}
